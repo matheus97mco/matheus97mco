@@ -1,6 +1,10 @@
 # 💫 About Me:
-👨🏻‍🎓Graduated in information systems <br>🧑🏻‍💼Working in techincal support (Help Desk)<br>🧑🏻‍💻Data area fan<br>📚Currently learning about this to become a good professional<br>My hobbies are:<br><li>⚽ Santos F.C ⚪⚫</li><li>🏎️ </li><li>🏋🏻‍♂️ </li><li>🎮 Play games (PC > Console</li>
-
+👨🏻‍🎓Graduated in Information Systems <br>🧑🏻‍💼Working in techincal support (Help Desk)<br>🧑🏻‍💻Data area fan<br>📚Currently learning about this to become a good professional<br>🌠My hobbies are:
+- ⚽ Santos F.C ⚪⚫
+- 🎮 Play games (PC > Console)  
+- 🏎️ F1  
+- 🏋🏻‍♂️ Gym
+- 🎧 Listen to music
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/matheus.mco) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matheuscunhaol) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:matheus97.mco@hotmail.com) 
