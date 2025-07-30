@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨🏻‍🎓Graduated in information systems <br>🧑🏻‍💼Working in techincal support (Help Desk)<br>🧑🏻‍💻Data area fan<br>📚Currently learning about this to become a good professional<br>⚽I love Soccer - Santos F.C⚪⚫||🏎️F1||🏋🏻‍♂️Gym<br>
+👨🏻‍🎓Graduated in information systems <br>🧑🏻‍💼Working in techincal support (Help Desk)<br>🧑🏻‍💻Data area fan<br>📚Currently learning about this to become a good professional<br>My hobbies are:<br><li>⚽ Santos F.C ⚪⚫</li><li>🏎️ </li><li>🏋🏻‍♂️ </li><li>🎮 Play games (PC > Console</li>
 
 
 ## 🌐 Socials:
